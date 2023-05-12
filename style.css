@@ -1,10 +1,10 @@
 html, body{
     height: 100%;
-    background-image:linear-gradient(to top right, red ,blue);
+    background-image:linear-gradient(to top right,#D3959B ,#BFE6BA);
     background-size: cover;
 }
 
-.container{
+.text-center{
     padding: 20px;
     background-color: aliceblue;
     width:max-content;
@@ -15,4 +15,11 @@ html, body{
     transform: translate(-50%,-50%);
     height: max-content;
     box-shadow: 0px 4px 6px rgb(155, 139, 139);
+}
+.response{
+    text-align: left;
+}
+
+audio{
+    border-radius: 10px;
 }
