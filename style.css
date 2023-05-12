@@ -7,7 +7,7 @@ html, body{
 div.text-center{
     padding: 20px;
     background-color: aliceblue;
-    width:auto;
+    width:60%;
     margin: 0 auto;
     position:absolute;
     top: 50%;
